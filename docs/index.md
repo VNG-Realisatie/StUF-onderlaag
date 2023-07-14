@@ -25,26 +25,3 @@ Zoals hierboven al genoemd zegt de StUF standaard niets over de vorm van een spe
 Om het ontwikkelen van koppelingen tussen systemen te vergemakkelijken en de interoperabiliteit te verbeteren zijn er diverse koppelvlakken beschreven waarin de koppeling tussen specifieke referentiecomponenten nog strakker staan omschreven. In deze koppelvlakken worden, zo mogelijk op basis van in de sectormodellen gedefinieerde componenten en berichten, de daartussen te gebruiken berichten gespecificeerd en de daarbij te volgen verdere afspraken. Daar waar de componenten of berichten in een sectormodel geen of niet voldoende basis boden voor de gewenste berichtuitwisseling in een koppelvlak is er in sommige gevallen t.b.v. zo'n koppelvlak een apart verticaal sectormodel of berichtencatalogus ontwikkeld. Zo'n berichtencatalogus voegt in dat geval aan een bestaand sectormodel functionaliteit in de vorm van componenten en berichten toe terwijl een verticaal sectormodel StUF functionaliteit op basis van een voor dat aandachtsgebied ontwikkeld informatiemodel biedt.
 
 De standaard vormt samen met de aan haar gerelateerde sectormodellen, berichtencatalogi en koppelvlakken een zogenaamde StUF familie. Hieronder wordt in het kort een overzicht gegeven van de StUF families van de twee op dit moment in gebruik zijnde StUF standaarden, StUF 2.04 en StUF 3.01.
-
-## StUF 3.01 familie
-De StUF 3.01 familie is gebaseerd op de StUF 3.01 standaard en kent een aantal <span style="color:red">horizontale</span> en <span style="color:red">verticale sectormodellen</span>. Daarnaast maken ook een aantal <span style="color:red">koppelvlakken</span> en de <span style="color:red">protocolbindingen</span> deel uit van de StUF 3.01 familie.
-
-Het onderstaande plaatje geeft een vereenvoudigd overzicht van de StUF 3.01 familie en de relaties tussen de verschillende onderdelen.
-
-![Stuf-familie](./images/800px-Stuf-familie.png)
-
-Stuf-familie.png
-Over deze afbeelding
-StUF 3.01, ook wel de StUF 3.01 onderlaag genoemd, maakt gebruik van voorzieningen die de protocolbindingen biedt. Op haar beurt stelt de StUF 3.01 onderlaag voorzieningen beschikbaar aan de horizontale sectormodellen waaraan de verticale sectormodellen weer voorzieningen kunnen onttrekken. De koppelvlakken maken vervolgens weer gebruik van de verticale sectormodellen en/of berichtencatalogi.
-
-## StUF 2.04 familie
-De StUF 2.04 familie, die gebaseerd op de StUF 2.04 standaard, is aanzienlijk kleiner en kent alleen het [horizontale sectormodel StUF-BG](https://vng-realisatie.github.io/StUF-BG/) en het <span style="color:red">koppelvlak BAG-GBA</span>.
-
-## Protocolbindingen
-'StUF protocolbindingen' beschrijft de afspraken voor het gebruik van StUF in combinatie met drie manieren van transport: via bestandsoverdracht, via transport op basis van WSDL 1.1 met SOAP 1.1 en http(s) als onderliggend transportmechanisme of via transport op basis van Digikoppeling (voorheen OSB).
-
-Digikoppeling schrijft voor hoe overheidsorganisaties over een digitaal netwerk met elkaar communiceren. De Digikoppeling standaarden (Digikoppeling3.0 WUS en Digikoppeling 2.0 ebMS) beschrijven uitsluitend de communicatie op organisatieniveau. Binnen de organisatie kan de communicatie afkomstig zijn van of bestemd zijn voor allerlei verschillende systemen, maar over de routering binnen een organisatie zegt Digikoppeling niets.
-
-Omdat het inrichten van een Digikoppeling adapter complex is, kiezen organisaties en ook gemeenten veelal voor één Digikoppeling adapter voor de hele organisatie. Bij de implementatie van Digikoppeling binnen gemeenten is gebleken dat het ontbreken van voorschriften voor de communicatie van systemen met een Digikoppeling adapter leidt tot allerlei ad hoc oplossingen die onderling niet op elkaar zijn afgestemd en ook tot het gebruiken van meerdere Digikoppeling adapters door een gemeente. Om die reden is het https://vng-realisatie.github.io/StUF-BG/Koppelvlak Digikoppeling Adapter Intern ontwikkeld<span>.
-
-Documenten

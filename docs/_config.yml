@@ -14,6 +14,12 @@ nav:
     subnav:
       - title: Overzicht
         path: /
+      - title: StUF 3.01 familie
+        path: /301-familie
+      - title: StUF 2.04 familie
+        path: /204-familie
+      - title: Protocolbindingen
+        path: /Protocolbindingen
       - title: Documentatie  
         path: /Documentatie
 #      - title: Werkgroep  
