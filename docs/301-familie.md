@@ -3,7 +3,7 @@ layout: page-with-side-nav
 title: StUF Berichtenstandaard
 ---
 # StUF 3.01 familie
-De StUF 3.01 familie is gebaseerd op de StUF 3.01 standaard en kent een aantal <span style="color:red">horizontale</span> en <span style="color:red">verticale sectormodellen</span>. Daarnaast maken ook een aantal <span style="color:red">koppelvlakken</span> en de <span style="color:red">protocolbindingen</span> deel uit van de StUF 3.01 familie.
+De StUF 3.01 familie is gebaseerd op de StUF 3.01 standaard en kent een aantal <span style="color:red">horizontale</span> en <span style="color:red">verticale sectormodellen</span>. Daarnaast maken ook een aantal <span style="color:red">koppelvlakken</span> en de [protocolbindingen](./Protocolbindingen) deel uit van de StUF 3.01 familie.
 
 Het onderstaande plaatje geeft een vereenvoudigd overzicht van de StUF 3.01 familie en de relaties tussen de verschillende onderdelen.
 
