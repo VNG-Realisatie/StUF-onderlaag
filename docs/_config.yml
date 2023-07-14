@@ -31,10 +31,10 @@ plugins:
 
 remote_theme: melsk-r/jekyll-theme-vng-realisatie
 
-github: VNG-Realisatie/StUF-BG
+github: VNG-Realisatie/StUF-onderlaag
 
 theme: jekyll-theme-time-machine
 
-project_name: VNG-Realisatie/StUF-BG
+project_name: VNG-Realisatie/StUF-onderlaag
 
 standard_family: StUF

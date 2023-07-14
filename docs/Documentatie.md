@@ -1,6 +1,6 @@
 ---
 layout: page-with-side-nav
-title: Documenten StUF
+title: Documentatie StUF
 folder_files:
   - title: 20211208 patch32
     path: documenten/20211208_patch32.zip.zip
