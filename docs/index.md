@@ -1,3 +1,7 @@
+---
+layout: page-with-side-nav
+title: StUF Berichtenstandaard
+---
 # StUF Berichtenstandaard
 
 **Actuele versie**: 3.01
