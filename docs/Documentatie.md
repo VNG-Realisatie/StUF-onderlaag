@@ -3,7 +3,7 @@ layout: page-with-side-nav
 title: Documentatie StUF
 folder_files:
   - title: 20211208 patch32
-    path: documenten/20211208_patch32.zip.zip
+    path: documenten/20211208_patch32.zip
     group: 301
     versie: 32
     status: Definitief
