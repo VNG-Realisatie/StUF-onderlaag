@@ -11,7 +11,7 @@ De Standaard Uitwisseling Formaat (StUF) is een berichtenstandaard en bevat de a
 Verschillende ontwikkelingen maken het vernieuwen van standaarden noodzakelijk om invulling te (blijven) geven aan de behoefte en wensen van gemeenten. De doorontwikkeling van de StUF standaard, de StUF sectormodellen en de StUF koppelvlakken is daarom stopgezet. Alleen wetswijzigingen, wijzigingen in de Logische Ontwerpen van Basisregistraties en gevonden fouten kunnen aanleiding zijn voor het publiceren van een nieuwe versie van deze standaarden. Zo wordt er voor gezorgd dat gemeenten hun werk kunnen blijven doen. Een toelichting op het vernieuwen van de standaarden is te vinden bij <span style="color:red">API-standaarden</span>.
 
 ## Discussieplatform
-Hier kunt u terecht voor de [nieuwste discussies m.b.t. StUF 3.01](https://github.com/VNG-Realisatie/StUF-Standaarden/labels/StUF%202.04) en [nieuwste discussies m.b.t. StUF 3.01](https://github.com/VNG-Realisatie/StUF-Standaarden/labels/StUF%203.01).
+Hier kunt u terecht voor de [nieuwste discussies m.b.t. StUF 3.01](https://github.com/VNG-Realisatie/StUF-Standaarden/labels/StUF%202.04) en voor de [nieuwste discussies m.b.t. StUF 3.01](https://github.com/VNG-Realisatie/StUF-Standaarden/labels/StUF%203.01).
 
 ## StUF
 De afgelopen decenia is de uitwisseling van gegevens binnen de overheid steeds belangrijker geworden. Kijkend naar de doelstellingen van de e-overheid en de digitale agenda 2020 nam de behoefte aan uitwisseling alleen maar verder toe. Ter ondersteuning van deze uitwisseling is er een familie van StUF-standaarden gegroeid. Al deze standaarden zijn gebaseerd op het Standaard UitwisselFormaat (StUF) (actuele versie: 3.01).
