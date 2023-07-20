@@ -5,8 +5,8 @@ title: StUF Berichtenstandaard
 # StUF Berichtenstandaard
 
 **Actuele versie**: 3.01
-**Beheerder**  VNG Realisatie<br/>
-**Afkorting**  StUF
+**Beheerder:**  VNG Realisatie<br/>
+**Afkorting:**  StUF
 
 De Standaard Uitwisseling Formaat (StUF) is een berichtenstandaard en bevat de afspraken over de basisprincipes voor het uitwisselen van gegevens tussen applicaties in het gemeentelijke veld. StUF bevat zelf geen berichten maar wel bouwstenen en richtlijnen waarmee berichtstandaarden kunnen worden samengesteld. Toepassing van de standaard voorkomt dat steeds opnieuw maatwerk moet worden ontwikkeld, beperkt het overleg voor het realiseren van koppelingen tussen systemen en bevordert de interoperabiliteit. StUF is beschreven in XML en gebaseerd op geaccepteerde internetstandaarden.
 
