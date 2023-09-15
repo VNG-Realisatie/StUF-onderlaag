@@ -51,7 +51,7 @@ folder_files:
     status: 
     omschrijving: 
     datum: 20101202
-  - title: Bug XMLSpy 2009 zip)
+  - title: Bug XMLSpy 2009 (zip)
     path: documenten/Achtergrondinformatie/Bug_XMLSpy_2009.zip
     group: achtergrond
     versie: 
@@ -163,7 +163,7 @@ folder_files:
     status: 
     omschrijving: 
     datum: 20121204
-  - title: StUF expertadvies aangepast na consultatie 
+  - title: StUF expertadvies aangepast na consultatie (pdf)
     path: documenten/Diversen/StUF_expertadvies_aangepast_na_consultatie.pdf
     group: diversen
     versie: 
