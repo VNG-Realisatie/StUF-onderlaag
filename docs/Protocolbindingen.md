@@ -3,7 +3,7 @@ layout: page-with-side-nav
 title: StUF Protocolbindingen
 ---
 # Protocolbindingen
-De 'StUF protocolbindingen' (zie ook [de lijst met documenten](./Documenten)) beschrijven de afspraken voor het gebruik van StUF in combinatie met drie manieren van transport: via bestandsoverdracht, via transport op basis van WSDL 1.1 met SOAP 1.1 en http(s) als onderliggend transportmechanisme of via transport op basis van Digikoppeling (voorheen OSB).
+De 'StUF protocolbindingen' (zie ook [de lijst met documenten](./Documentatie)) beschrijven de afspraken voor het gebruik van StUF in combinatie met drie manieren van transport: via bestandsoverdracht, via transport op basis van WSDL 1.1 met SOAP 1.1 en http(s) als onderliggend transportmechanisme of via transport op basis van Digikoppeling (voorheen OSB).
 
 Digikoppeling schrijft voor hoe overheidsorganisaties over een digitaal netwerk met elkaar communiceren. De Digikoppeling standaarden (Digikoppeling3.0 WUS en Digikoppeling 2.0 ebMS) beschrijven uitsluitend de communicatie op organisatieniveau. Binnen de organisatie kan de communicatie afkomstig zijn van of bestemd zijn voor allerlei verschillende systemen, maar over de routering binnen een organisatie zegt Digikoppeling niets.
 
