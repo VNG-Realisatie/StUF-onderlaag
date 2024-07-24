@@ -23,8 +23,8 @@ folder_files:
     status: Definitief
     omschrijving: 
     datum: 20170401
-  - title:  Stuf0301
-    path: documenten/Stuf0301.pdf (pdf)
+  - title:  Stuf0301 (pdf)
+    path: documenten/Stuf0301.pdf
     group: 301
     versie: 27
     status: Definitief
