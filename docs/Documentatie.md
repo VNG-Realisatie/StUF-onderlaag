@@ -2,13 +2,20 @@
 layout: page-with-side-nav
 title: Documentatie StUF
 folder_files:
-  - title: 20211208 patch32 (zip)
-    path: documenten/20211208_patch32.zip
+  - title: 20250321 patch33 (zip)
+    path: documenten/20250321_patch33.zip
     group: 301
-    versie: 32
+    versie: 33
     status: Definitief
-    omschrijving:
-    datum: 20211208
+    omschrijving: Patch i.v.m. de wens Tijdelijke verblijfsadressen van niet ingezetene te kunnen uitwisselen. Bevat alle documentatie, schema's en WSDL's behorende bij patch 33 van StUF-BG 3.10, StUF-ZKN 3.10 en StUF-ZTC 3.10 inclusief alle bij de StUF 3.01 onderlaag horende zaken. Tevens bevat de zip het overzicht van de er in verwerkte onderhoudsverzoeken en de lijst met de bij StUF-BG 3.10, StUF-ZKN 3.10 en StUF-ZTC 3.10 horende extraElementen.
+    datum: 20250321
+  - title: Stuf0301 20250321 patch33 (zip)
+    path: documenten/Stuf0301_20250321_patch33.zip
+    group: 301
+    versie: 33
+    status: Definitief
+    omschrijving: Bevat alle documentatie, schema's en WSDL's behorende bij patch 33 van de StUF 3.01 onderlaag.
+    datum: 20250321
   - title:  Protocolbindingen 03.01 voor StUF (pdf)
     path: documenten/Stuf.bindingen.030100.pdf
     group: 301
