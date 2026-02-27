@@ -2,6 +2,41 @@
 layout: page-with-side-nav
 title: Documentatie StUF
 folder_files:
+  - title:  Protocolbindingen 03.01 voor StUF (pdf)
+    path: documenten/Stuf.bindingen.030100.pdf
+    group: 301
+    versie: 03.01
+    status: Definitief
+    omschrijving:
+    datum: 20150225
+  - title: Protocolbindingen 03.02 voor StUF (pdf)
+    path: documenten/Stuf.bindingen.030204.pdf
+    group: 301
+    versie: 03.02.04
+    status: Definitief
+    omschrijving: 
+    datum: 20170401
+  - title:  Stuf0301 (pdf)
+    path: documenten/Stuf0301.pdf
+    group: 301
+    versie: 28
+    status: Definitief
+    omschrijving: 
+    datum: 20260115
+  - title: TheorieHistorie5 (pdf)
+    path: documenten/TheorieHistorie5.pdf
+    group: 301
+    versie: 0.5
+    status: 
+    omschrijving: 
+    datum: 20130701
+  - title: Stuf0204 20120402 patch11 (zip)
+    path: documenten/Stuf0204_20120402_patch11.zip
+    group: 204
+    versie: 11
+    status: 
+    omschrijving: 
+    datum: 20120402
   - title: Advies issue 120 Generiek domein datum-tijd v0 9 (pdf)
     path: documenten/Achtergrondinformatie/Advies_issue_120_Generiek_domein_datum-tijd_v0_9.pdf
     group: achtergrond
