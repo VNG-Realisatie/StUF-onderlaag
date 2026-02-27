@@ -2,6 +2,13 @@
 layout: page-with-side-nav
 title: Documentatie StUF
 folder_files:
+  - title: Stuf0301 20260227 patch34 (zip)
+    path: documenten/stuf0301_20260227_patch34.zip
+    group: 301
+    versie: 34
+    status: Definitief
+    omschrijving: Bevat alle documentatie, schema's en WSDL's behorende bij patch 34 van de StUF 3.01 onderlaag.
+    datum: 20260227
   - title:  Protocolbindingen 03.01 voor StUF (pdf)
     path: documenten/Stuf.bindingen.030100.pdf
     group: 301
