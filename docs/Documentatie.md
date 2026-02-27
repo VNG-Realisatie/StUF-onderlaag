@@ -7,8 +7,7 @@ folder_files:
     group: 301
     versie: 34
     status: Definitief
-    omschrijving: Patch naar aanleiding van de wijziging van de maximale lengte van de landnaam van 40 posities naar 80 posities in de LO-BRP.  
-	Daarnaast zijn ook enkele verbeteringen in de documentatie aangebracht. Bevat alle documentatie, schema's en WSDL's behorende bij patch 34 van StUF-BG 3.10, StUF-ZKN 3.10 en StUF-ZTC 3.10 inclusief alle bij de StUF 3.01 onderlaag horende zaken. Tevens bevat de zip het overzicht van de er in verwerkte onderhoudsverzoeken en de lijst met de bij StUF-BG 3.10, StUF-ZKN 3.10 en StUF-ZTC 3.10 horende extraElementen.
+    omschrijving: Patch naar aanleiding van de wijziging van de maximale lengte van de landnaam van 40 posities naar 80 posities in de LO-BRP.<br/>Daarnaast zijn ook enkele verbeteringen in de documentatie aangebracht. Bevat alle documentatie, schema's en WSDL's behorende bij patch 34 van StUF-BG 3.10, StUF-ZKN 3.10 en StUF-ZTC 3.10 inclusief alle bij de StUF 3.01 onderlaag horende zaken. Tevens bevat de zip het overzicht van de er in verwerkte onderhoudsverzoeken en de lijst met de bij StUF-BG 3.10, StUF-ZKN 3.10 en StUF-ZTC 3.10 horende extraElementen.
     datum: 20260227
   - title: Stuf0301 20260227 patch34 (zip)
     path: documenten/stuf0301_20260227_patch34.zip
