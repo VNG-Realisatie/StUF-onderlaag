@@ -11,7 +11,7 @@ folder_files:
 	Daarnaast zijn ook enkele verbeteringen in de documentatie aangebracht. Bevat alle documentatie, schema's en WSDL's behorende bij patch 34 van StUF-BG 3.10, StUF-ZKN 3.10 en StUF-ZTC 3.10 inclusief alle bij de StUF 3.01 onderlaag horende zaken. Tevens bevat de zip het overzicht van de er in verwerkte onderhoudsverzoeken en de lijst met de bij StUF-BG 3.10, StUF-ZKN 3.10 en StUF-ZTC 3.10 horende extraElementen.
     datum: 20260227
   - title: Stuf0301 20260227 patch34 (zip)
-    path: documenten/Stuf0301_20260227_patch34.zip
+    path: documenten/stuf0301_20260227_patch34.zip
     group: 301
     versie: 34
     status: Definitief
@@ -37,7 +37,7 @@ folder_files:
     versie: 28
     status: Definitief
     omschrijving: 
-    datum: 20260227
+    datum: 20260115
   - title: TheorieHistorie5 (pdf)
     path: documenten/TheorieHistorie5.pdf
     group: 301
