@@ -2,20 +2,21 @@
 layout: page-with-side-nav
 title: Documentatie StUF
 folder_files:
-  - title: 20250825 patch33 (zip)
-    path: documenten/20250825_patch33.zip
+  - title: 20260227 patch34 (zip)
+    path: documenten/20260227_patch34.zip
     group: 301
-    versie: 33
+    versie: 34
     status: Definitief
-    omschrijving: Patch i.v.m. de wens Tijdelijke verblijfsadressen van niet ingezetene te kunnen uitwisselen. Bevat alle documentatie, schema's en WSDL's behorende bij patch 33 van StUF-BG 3.10, StUF-ZKN 3.10 en StUF-ZTC 3.10 inclusief alle bij de StUF 3.01 onderlaag horende zaken. Tevens bevat de zip het overzicht van de er in verwerkte onderhoudsverzoeken en de lijst met de bij StUF-BG 3.10, StUF-ZKN 3.10 en StUF-ZTC 3.10 horende extraElementen.<br/><br/>In vergelijking met de versie van 2025-03-21 is een kleine typo in het bestand 'bg0310\entiteiten\bg0310_simpleTypes.xsd' gecorrigeerd.
-    datum: 20250825
-  - title: Stuf0301 20250321 patch33 (zip)
-    path: documenten/Stuf0301_20250321_patch33.zip
+    omschrijving: Patch naar aanleiding van de wijziging van de maximale lengte van de landnaam van 40 posities naar 80 posities in de LO-BRP.  
+	Daarnaast zijn ook enkele verbeteringen in de documentatie aangebracht. Bevat alle documentatie, schema's en WSDL's behorende bij patch 34 van StUF-BG 3.10, StUF-ZKN 3.10 en StUF-ZTC 3.10 inclusief alle bij de StUF 3.01 onderlaag horende zaken. Tevens bevat de zip het overzicht van de er in verwerkte onderhoudsverzoeken en de lijst met de bij StUF-BG 3.10, StUF-ZKN 3.10 en StUF-ZTC 3.10 horende extraElementen.
+    datum: 20260227
+  - title: Stuf0301 20260227 patch34 (zip)
+    path: documenten/Stuf0301_20260227_patch34.zip
     group: 301
-    versie: 33
+    versie: 34
     status: Definitief
-    omschrijving: Bevat alle documentatie, schema's en WSDL's behorende bij patch 33 van de StUF 3.01 onderlaag.
-    datum: 20250321
+    omschrijving: Bevat alle documentatie, schema's en WSDL's behorende bij patch 34 van de StUF 3.01 onderlaag.
+    datum: 20260227
   - title:  Protocolbindingen 03.01 voor StUF (pdf)
     path: documenten/Stuf.bindingen.030100.pdf
     group: 301
@@ -33,10 +34,10 @@ folder_files:
   - title:  Stuf0301 (pdf)
     path: documenten/Stuf0301.pdf
     group: 301
-    versie: 27
+    versie: 28
     status: Definitief
     omschrijving: 
-    datum: 20180401
+    datum: 20260227
   - title: TheorieHistorie5 (pdf)
     path: documenten/TheorieHistorie5.pdf
     group: 301
@@ -100,13 +101,6 @@ folder_files:
     status: 
     omschrijving: 
     datum: 20100215
-  - title: Stuf0301-concept (pdf)
-    path: documenten/Achtergrondinformatie/Stuf0301-concept.pdf
-    group: achtergrond
-    versie: concept
-    status: 
-    omschrijving: 
-    datum: 20130101
   - title: StUF Artikel chen erd (pdf)
     path: documenten/Achtergrondinformatie/StUF_Artikel_chen_erd.pdf
     group: achtergrond
