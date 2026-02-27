@@ -2,55 +2,6 @@
 layout: page-with-side-nav
 title: Documentatie StUF
 folder_files:
-  - title: 20260227 patch34 (zip)
-    path: documenten/20260227_patch34.zip
-    group: 301
-    versie: 34
-    status: Definitief
-    omschrijving: Patch naar aanleiding van de wijziging van de maximale lengte van de landnaam van 40 posities naar 80 posities in de LO-BRP.<br/>Daarnaast zijn ook enkele verbeteringen in de documentatie aangebracht. Bevat alle documentatie, schema's en WSDL's behorende bij patch 34 van StUF-BG 3.10, StUF-ZKN 3.10 en StUF-ZTC 3.10 inclusief alle bij de StUF 3.01 onderlaag horende zaken. Tevens bevat de zip het overzicht van de er in verwerkte onderhoudsverzoeken en de lijst met de bij StUF-BG 3.10, StUF-ZKN 3.10 en StUF-ZTC 3.10 horende extraElementen.
-    datum: 20260227
-  - title: Stuf0301 20260227 patch34 (zip)
-    path: documenten/stuf0301_20260227_patch34.zip
-    group: 301
-    versie: 34
-    status: Definitief
-    omschrijving: Bevat alle documentatie, schema's en WSDL's behorende bij patch 34 van de StUF 3.01 onderlaag.
-    datum: 20260227
-  - title:  Protocolbindingen 03.01 voor StUF (pdf)
-    path: documenten/Stuf.bindingen.030100.pdf
-    group: 301
-    versie: 03.01
-    status: Definitief
-    omschrijving:
-    datum: 20150225
-  - title: Protocolbindingen 03.02 voor StUF (pdf)
-    path: documenten/Stuf.bindingen.030204.pdf
-    group: 301
-    versie: 03.02.04
-    status: Definitief
-    omschrijving: 
-    datum: 20170401
-  - title:  Stuf0301 (pdf)
-    path: documenten/Stuf0301.pdf
-    group: 301
-    versie: 28
-    status: Definitief
-    omschrijving: 
-    datum: 20260115
-  - title: TheorieHistorie5 (pdf)
-    path: documenten/TheorieHistorie5.pdf
-    group: 301
-    versie: 0.5
-    status: 
-    omschrijving: 
-    datum: 20130701
-  - title: Stuf0204 20120402 patch11 (zip)
-    path: documenten/Stuf0204_20120402_patch11.zip
-    group: 204
-    versie: 11
-    status: 
-    omschrijving: 
-    datum: 20120402
   - title: Advies issue 120 Generiek domein datum-tijd v0 9 (pdf)
     path: documenten/Achtergrondinformatie/Advies_issue_120_Generiek_domein_datum-tijd_v0_9.pdf
     group: achtergrond
