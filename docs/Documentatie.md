@@ -48,9 +48,16 @@ folder_files:
     path: documenten/Stuf0204_20120402_patch11.zip
     group: 204
     versie: 11
-    status: 
-    omschrijving: 
+    status: Definitief
+    omschrijving: Bevat alle documentatie en schema's van patch 11 van de StUF 2.04 onderlaag.
     datum: 20120402
+  - title: 20260227 patch15 (zip)
+    path: documenten/20260227_patch15.zip
+    group: 204
+    versie: 15
+    status: Definitief
+    omschrijving: Patch naar aanleiding van de wijziging van de maximale lengte van de landnaam van 40 posities naar 80 posities in de LO-BRP.<br/>Bevat de zip met alle documentatie en schema's voor StUF-BG 2.04 en de StUF 2.04 onderlaag. Tevens bevat het een overzicht van de er in verwerkte onderhoudsverzoeken en de lijst met de bij StUF-BG 2.04 horende extraElementen.
+    datum: 20260227
   - title: Advies issue 120 Generiek domein datum-tijd v0 9 (pdf)
     path: documenten/Achtergrondinformatie/Advies_issue_120_Generiek_domein_datum-tijd_v0_9.pdf
     group: achtergrond
